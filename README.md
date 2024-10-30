@@ -1,4 +1,4 @@
-## 📊 Visualisasi Data Marketing ![Tableau Logo](https://img.icons8.com/color/48/000000/tableau-software.png) - [TABLEAU](https://www.tableau.com/)
+# 📊 Visualisasi Data Marketing ![Tableau Logo](https://img.icons8.com/color/48/000000/tableau-software.png) - [TABLEAU](https://www.tableau.com/)
 
 Repositori ini berisi mengenai proyek analisis menggunakan python serta penggunaan tableau sebagai alat bantu untuk visualisasi. Proyek ini bertujuan untuk mengeksplorasi suatu data kemudian memberikan analisis mengenai data yang sedang dilakukan analisis dan pada akhirnya akan divisualisasikan menggunakan tableau. Repositori ini mencakup file Jupyter Notebook yang menjelaskan proses secara menyeluruh, mulai dari eksplorasi data hingga menghasilkan visualisasi yang informatif.
 
