@@ -19,7 +19,7 @@ Repositori ini berisi mengenai proyek analisis menggunakan python serta pengguna
 
 
 ## Link Terkait Project 📁
-DataSet Link  (https://www.kaggle.com/datasets/ahsan81/superstore-marketing-campaign-dataset?select=superstore_data.csv)[link]
+[DataSet Link]  (https://www.kaggle.com/datasets/ahsan81/superstore-marketing-campaign-dataset?select=superstore_data.csv)
 
 Dashboard Visualization Link  
 https://public.tableau.com/app/profile/maulana.achsan/viz/MarketingDataProject/Dashboard3#2
