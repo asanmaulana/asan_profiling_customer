@@ -92,7 +92,9 @@ Memberikan diskon atau marketing campaign kepada segmen tertentu yang lebih besa
 ## File yang Tersedia 
 
 Profiling_Customer_Segment.ipynb >> Proses Analisis menggunakan Python 
+
 maulana_achsan_df.csv  >> data yang bersih 
+
 superstore_data.csv >> raw data
 
 ## Cara Menggunakan Projek Ini
