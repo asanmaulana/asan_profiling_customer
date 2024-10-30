@@ -19,8 +19,7 @@ Repositori ini berisi mengenai proyek analisis menggunakan python serta pengguna
 
 
 ## Link Terkait Project 📁
-DataSet Link 
-https://www.kaggle.com/datasets/ahsan81/superstore-marketing-campaign-dataset?select=superstore_data.csv
+DataSet Link  (https://www.kaggle.com/datasets/ahsan81/superstore-marketing-campaign-dataset?select=superstore_data.csv)[link]
 
 Dashboard Visualization Link  
 https://public.tableau.com/app/profile/maulana.achsan/viz/MarketingDataProject/Dashboard3#2
@@ -51,5 +50,35 @@ RELEVANT : Dengan kenaikan response rate iklan ini diharapkan akan memperkuat po
 TIME-BOUND : Program kampanye iklan ini akan dilakukan dimulai awal 10 desember dan berakhir 31 desember. 
 
 Problem Statement : Menaikkan response rate iklan diskon akhir tahun dari supermarket Indoapril sebesar 15% dengan waktu sampai akhir tahun untuk memperkokoh posisi kita dalam pasar dan menambah penjualan di tahun ini. 
+
+## Penjabaran Masalah 
+
+1.  Berapa persentase response rate tahun lalu? >>> (Visualisasi)
+2.  Apakah income class dibawah dari median income class lebih sering merespon iklan kita? >>> (Visualisasi)
+3.  Generasi mana yang memiliki respon paling banyak? >>> (Visualisasi)
+4.  Apakah rata-rata orang dengan kepemilikan gelar cenderung memiliki respon rate rendah terhadap iklan kita? >>> (Visualisasi)
+5.  Bagaimana rata-rata respon iklan terhadap orang-orang sudah menikah atau hidup bersama pasangan ?  apakah mereka cenderung lebih sering melakukan response terhadap iklan kita? >>> (Visualisasi) 
+6.  Adakah korelasi antara jumlah anak dengan respon iklan ? Sebagai pertimbangan dengan orang yang mempunyai anak maka biaya hidup lebih besar dan itu akan membuat mereka cenderung untuk merespon iklan iklan dari kita ? >>> (Deskriptif)
+7.  Apakah ada perbedaan rata 2 response rate iklan terhadap golongan orang2 yang mempunyai recency <= 10 dan diatas 10  ? Jadi kita akan melakukan testing untuk membuktikan secara statistik bagaimana perbedaan respon iklan terhadap terakhir pembelian user di supermarket itu? >>>(Inferensial) 
+8. Bagaimana total proporsi penjualan produk per bulan ? Produk mana yang berhasil terjual paling banyak ? 
+9. Dimana customer banyak membeli produk kita ? 
+
+## Metode yang Digunakan 
+
+1. Statistik Inferensial
+2. Statistik Deskriptif
+3. Visualisasi Data
+
+## Kesimpulan Analisa 
+
+## Rekomendasi 
+
+## File yang Tersedia 
+
+## Cara Menggunakan Projek Ini
+## Libraries
+##Author
+
+(Author)[https://www.linkedin.com/in/asan133/]
 
 
