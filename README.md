@@ -70,16 +70,7 @@ Problem Statement : Menaikkan response rate iklan diskon akhir tahun dari superm
 
 ## Kesimpulan Analisa 
 
-Setelah kita melakukan uji-uji statistik dan visualisasi data ini adalah rekapan dari data temuan saya. 
-1. Response rate tahun lalu 15%.
-2. Median dari income adalah 50000 euro per tahun. 
-3. Gen X menjadi orang-orang yang memiliki reponse rate tertinggi dibandingkan yang lainnya. 
-4. Orang dengan gelar cenderung memiliki responsifitas terhadap diskon akhir tahun lalu
-5. Orang single mempunyai response rate terhadap iklan lebih tinggi dibanding yang berkeluarga dan memiliki pasangan. 
-6. Tidak ada korelasi antara punya anak dan response rate
-7. Recency Rate rendah atau sering ke supermarket akan merespon dengan baik diskon akhir tahun. 
-8. Orang dengan status married lebih banyak membeli wine dibandingkan status hubungan keluarga lain
-9. Orang dengan status married lebih banyak juga membeli produk buah dibandingkan status hubungan keluarga lain
+???
 
 ## Rekomendasi 
 
