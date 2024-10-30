@@ -1,8 +1,8 @@
-### 📊 Visualisasi Data Marketing ![Tableau Logo](https://img.icons8.com/color/48/000000/tableau-software.png) - [TABLEAU](https://www.tableau.com/)
+## 📊 Visualisasi Data Marketing ![Tableau Logo](https://img.icons8.com/color/48/000000/tableau-software.png) - [TABLEAU](https://www.tableau.com/)
 
 Repositori ini berisi mengenai proyek analisis menggunakan python serta penggunaan tableau sebagai alat bantu untuk visualisasi. Proyek ini bertujuan untuk mengeksplorasi suatu data kemudian memberikan analisis mengenai data yang sedang dilakukan analisis dan pada akhirnya akan divisualisasikan menggunakan tableau. Repositori ini mencakup file Jupyter Notebook yang menjelaskan proses secara menyeluruh, mulai dari eksplorasi data hingga menghasilkan visualisasi yang informatif.
 
-### Daftar Isi 🔗 📥
+## Daftar Isi 🔗 📥
 
 1. Link Terkait Project
 2. Project Overview
@@ -18,27 +18,27 @@ Repositori ini berisi mengenai proyek analisis menggunakan python serta pengguna
 12. Author
 
 
-### Link Terkait Project 📁
+## Link Terkait Project 📁
 DataSet Link 
 https://www.kaggle.com/datasets/ahsan81/superstore-marketing-campaign-dataset?select=superstore_data.csv
 
 Dashboard Visualization Link  
 https://public.tableau.com/app/profile/maulana.achsan/viz/MarketingDataProject/Dashboard3#2
 
-### Project Overview 📝
+## Project Overview 📝
 
 Data adalah salah satu alat terbaik untuk membuat keputusan yang tepat. Pada proyek ini, kami bertujuan untuk menganalisis data dari tim marketing, mengekstraksi insight yang berharga serta memberikan panduan yang dapat membantu menentukan langkah strategis mereka ke depan. Langkah-langkah utama yang akan kami lakukan meliputi:
 1. Mengimpor library dan mengeksplorasi dataset.
 2. Memvisualisasikan data agar dapat diinterpretasikan dengan jelas.
 3. Menganalisis hasil visualisasi untuk memberikan rekomendasi dan tindakan strategis bagi tim marketing ke depannya.
 
-### Latar Belakang Masalah 🔍
+## Latar Belakang Masalah 🔍
 
 Sebagai perusahaan supermarket yang berada di jerman. Perusahaan ini mempunyai nilai pasar sebesar 100 Miliar Euro. Posisi perusahaan ini di market adalah market follower yang artinya berada di papan tengah dari klasemen persaingan pasar supermarket. Perusahaan ini sering melakukan strategi mempertahankan pasar dengan adanya diskon dan penawaran iklan menarik  lainnya. Karena perusahaan ini berada di tengah pasar perusahaan berusaha untuk melakukan kampanye iklan yang tidak melebihi budget sekaligus efektif dan efisien. 
 
 Tahun lalu perusahaan telah melakukan kampanye iklan diskon akhir tahun. Data dari tahun lalu berhasil disimpan sangat baik oleh perusahaan dan kali ini saya mendapatkan data random sampling dari data kampanye iklan tahun lalu. Perusahaan memberi instruksi kepada saya selaku data analyst didalam perusahaan tersebut untuk menganalisis data dari kampanye iklan tahun lalu tersebut. 
 
-### Problem Statement 💭
+## Problem Statement 💭
 
 SPECIFIC : Menaikkan response rate iklan perusahaan untuk marketing campaign yang berupa diskon akhir tahun. 
 
