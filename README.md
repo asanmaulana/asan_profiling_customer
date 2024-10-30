@@ -70,15 +70,45 @@ Problem Statement : Menaikkan response rate iklan diskon akhir tahun dari superm
 
 ## Kesimpulan Analisa 
 
-???
+1. Response rate tahun lalu 15%.
+2. Median dari income adalah 50000 euro per tahun. 
+3. Gen X menjadi orang-orang yang memiliki reponse rate tertinggi dibandingkan yang lainnya. 
+4. Orang dengan gelar cenderung memiliki responsifitas terhadap diskon akhir tahun lalu
+5. Orang single mempunyai response rate terhadap iklan lebih tinggi dibanding yang berkeluarga dan memiliki pasangan. 
+6. Tidak ada korelasi antara punya anak dan response rate
+7. Recency Rate rendah atau sering ke supermarket akan merespon dengan baik diskon akhir tahun. 
+8. Perlunya fokus untuk melakukan marketing kepada segmen wine dan segmen daging 
+9. Penjualan Store dan penjualan melalui web mendapatkan lebih dari 60% dari total penjualan. 
 
 ## Rekomendasi 
 
+### Insight
+
+Untuk Pemilihan produk diskon maka kita memerlukan pertimbangan generasi dari pelanggan kita dahulu. Setelah itu kita harus menampilkan konten iklan kita cenderung konten-konten untuk orang berpendidikan mulai dari visualnya dan kemudian aktor atau figur gambarnya. Setelah itu coba pilih segmen segmen produk yang menengah ke atas karena yang merespon diskon adalah orang dengan income rate diatas median. Jangan terlalu diskon produk-produk murah yang mempunyai segmen orang dengan pasar segmen menengah ke bawah. Dengan ini kita akan mendapatkan kesesuaian antara produk dan target market yang cocok. 
+Lebih baik kita fokuskan diskon kepada pelanggan pelanggan yang memiliki recency rate dibawah 10 dibandingkan pelanggan yang memiliki recency di atas 10. Sudah terbukti diskon kita di akhir tahun lebih terespon kepada orang-orang yang memiliki recency rate yang rendah. 
+Memberikan diskon atau marketing campaign kepada segmen tertentu yang lebih besar misalkan daging dan wine. Diharapkan dengan ini maka orang-orang akan aware dengan adanya diskon yang tinggi sehingga akan ada kenaikan dari response rate iklan kita. Kita perlu juga fokus kepada store dan website untuk melakukan kampanye nanti, meskipun tidak dipungkiri deals yang terjual dan katalog memberikan 40% total penjualan juga.  
+
+
 ## File yang Tersedia 
 
+Profiling_Customer_Segment.ipynb >> Proses Analisis menggunakan Python 
+maulana_achsan_df.csv  >> data yang bersih 
+superstore_data.csv >> raw data
+
 ## Cara Menggunakan Projek Ini
+
+1. Clone repositori ini ke dalam lokal Anda
+2. Jalankan Jupyter Notebook untuk mengikuti alur analisis data
+3. Tableau digunakan sebagai alat utama untuk membuat visualisasi, bisa dilihat melalui website atau aplikasi.
+ 
 ## Libraries
-##Author
+
+Pandas
+Scipy
+Seaborn 
+Matplotlib
+
+## Author
 
 [Author](https://www.linkedin.com/in/asan133/)
 
