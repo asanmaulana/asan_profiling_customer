@@ -78,6 +78,6 @@ Problem Statement : Menaikkan response rate iklan diskon akhir tahun dari superm
 ## Libraries
 ##Author
 
-(Author)[https://www.linkedin.com/in/asan133/]
+[Author](https://www.linkedin.com/in/asan133/)
 
 
